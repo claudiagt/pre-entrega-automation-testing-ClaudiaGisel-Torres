@@ -7,6 +7,10 @@ Se validan:
 - Catálogo de productos
 - Carrito de compras
 
+Ademas dentro de la carpeta Utils se separaron las acciones/ funciones y los locators en otro archivo.
+
+Los tests se agruparon todos en el archivo test_saucedemo y se agrego el reporte como se solicito
+
 # Tecnologias 
 - Python
 - Selenium WebDriver
